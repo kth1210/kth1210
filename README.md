@@ -15,6 +15,7 @@
 <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">  
 
 <br>
+<br>
 
 ## **🧑🏻‍💻 Education & Activities 🧑🏻‍💻**
 IT 연합 동아리 DND 8기 - iOS ( 2023.01.08 ~ )  

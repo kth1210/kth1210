@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:E1F1FF,100:87C5FF\&height=160&section=header&text=TaeHyun%20Kim&fontSize=30&fontAlignY=20&desc=Junior%20iOS%20Developer%20&descAlignY=40&descSize=15)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:E1F1FF,100:87C5FF\&height=150&section=header&text=TaeHyun%20Kim&fontSize=30&fontAlignY=20&desc=Junior%20iOS%20Developer%20&descAlignY=40&descSize=15)
 
 <div align="center">
 
@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
-<img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+<img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">  
 
 <br>
 
@@ -21,6 +21,7 @@ IT 연합 동아리 DND 8기 - iOS ( 2023.01.08 ~ )
 계절제 현장실습 (주)조은캠프 인터넷 강의 플랫폼 MVP 개발 - iOS ( 2022.12.28 ~ 2023.02.23 )  
 2022 관광데이터 활용 공모전 입상 - iOS ( 2022.05.30 ~ 2022.09.29 )  
 Kyungpook National University, Computer Science and Technology ( 2018 ~ )
+
 <br>
 
 ## **📱 Project 📱**

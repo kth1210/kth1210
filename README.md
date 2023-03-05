@@ -31,7 +31,7 @@ Kyungpook National University, Computer Science and Technology ( 2018 ~ )
 비 오는 날 여행할 곳을 추천해주는 서비스
 
 ### **2. THE EDU**
-( 2022.01.04 ~ 2023.02.23 )  
+( 2023.01.04 ~ 2023.02.23 )  
 (주)조은캠프 인터넷 강의 플랫폼 MVP
 
 ### **3. [ReetPlace](https://github.com/dnd-side-project/dnd-8th-2-frontend)**

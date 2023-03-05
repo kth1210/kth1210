@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:E1F1FF,100:87C5FF\&height=160&section=header&text=TaeHyun%20Kim&fontSize=30&fontAlignY=25&desc=Junior%20iOS%20Developer%20&descAlignY=45&descSize=20)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:E1F1FF,100:87C5FF\&height=160&section=header&text=TaeHyun%20Kim&fontSize=30&fontAlignY=20&desc=Junior%20iOS%20Developer%20&descAlignY=40&descSize=15)
 
 <div align="center">
 
@@ -21,7 +21,6 @@ IT 연합 동아리 DND 8기 - iOS ( 2023.01.08 ~ )
 계절제 현장실습 (주)조은캠프 인터넷 강의 플랫폼 MVP 개발 - iOS ( 2022.12.28 ~ 2023.02.23 )  
 2022 관광데이터 활용 공모전 입상 - iOS ( 2022.05.30 ~ 2022.09.29 )  
 Kyungpook National University, Computer Science and Technology ( 2018 ~ )
-
 <br>
 
 ## **📱 Project 📱**
@@ -37,6 +36,7 @@ Kyungpook National University, Computer Science and Technology ( 2018 ~ )
 ( 2023.02.01 ~ )  
 숨겨진 장소를 나만의 약속으로, ReetPlace  
 유저가 만족할만 약속을 완성하도록 도와주는 서비스
+
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:87C5FF,100:E1F1FF&height=150&section=footer)
 
 </div>

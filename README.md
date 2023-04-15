@@ -25,7 +25,7 @@
 
 <br>
 
-## **📱 Project 📱**
+## **📱 iOS Project 📱**
 
 
 ### **3. [ReetPlace](https://github.com/dnd-side-project/dnd-8th-2-frontend)**

@@ -1,4 +1,4 @@
-![github](https://github.com/kth1210/kth1210/assets/51712973/9031b893-ccbe-4546-a6c2-730bae2eca55)![header](https://capsule-render.vercel.app/api?type=waving&color=0:E1F1FF,100:87C5FF\&height=150&section=header&text=TaeHyun%20Kim&fontSize=30&fontAlignY=23&desc=Junior%20iOS%20Developer%20&descAlignY=42&descSize=15)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:E1F1FF,100:87C5FF\&height=150&section=header&text=TaeHyun%20Kim&fontSize=30&fontAlignY=23&desc=Junior%20iOS%20Developer%20&descAlignY=42&descSize=15)
 
 <div align="center">
 

@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:E1F1FF,100:87C5FF\&height=150&section=header&text=TaeHyun%20Kim&fontSize=30&fontAlignY=23&desc=Junior%20iOS%20Developer%20&descAlignY=42&descSize=15)
+![github](https://github.com/kth1210/kth1210/assets/51712973/9031b893-ccbe-4546-a6c2-730bae2eca55)![header](https://capsule-render.vercel.app/api?type=waving&color=0:E1F1FF,100:87C5FF\&height=150&section=header&text=TaeHyun%20Kim&fontSize=30&fontAlignY=23&desc=Junior%20iOS%20Developer%20&descAlignY=42&descSize=15)
 
 <div align="center">
 
@@ -17,10 +17,11 @@
 <br>
 <br>
 
-## **🧑🏻‍💻 Education & Activities 🧑🏻‍💻**
+## Education & Activities
 |기간|내용|
 |:-:|:-:|
 |2023.07.10 ~ 2023.12.15|**네이버 커넥트재단 부스트캠프 웹·모바일 8기 - iOS**|
+|2023.05.30 ~ 2023.11.14|**2023 관광데이터 활용 공모전 입상 - iOS**|
 |2023.01.08 ~ 2023.03.04|**IT 연합 동아리 DND 8기 - iOS**|
 |2022.12.28 ~ 2023.02.23|**계절제 현장실습 (주)조은캠프 인터넷 강의 플랫폼 MVP 개발 - iOS**|
 |2022.05.30 ~ 2022.09.29|**2022 관광데이터 활용 공모전 입상 - iOS**|
@@ -28,10 +29,14 @@
 
 <br>
 
-## **📱 iOS Project 📱**
+## iOS Project
 
+||내용|링크|
+|:-:|:-:|:-:|
+|<img width="75" src="https://github.com/kth1210/kth1210/assets/51712973/52cea49f-572f-4723-a294-5315327f8b10">|__**🌏 traveline**__<br/>여행 일정을 타임라인으로 기록하고 공유하는 여행 SNS 서비스<br/>기간 : ( 2023.11.06 ~ )|[<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">](https://github.com/boostcampwm2023/iOS07-traveline)|
+|<img width="75" src="https://github.com/kth1210/kth1210/assets/51712973/386127bc-8585-417c-9a88-d10cb9f4afee">|__**📍 ReetPlace**__<br/>숨겨진 장소를 나만의 약속으로, ReetPlace<br/>유저가 만족할 약속을 완성하도록 도와주는 서비스<br/>기간 : ( 2023.02.01 ~ )|[<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">](https://github.com/dnd-side-project/dnd-8th-2-frontend)|
 
-### **3. [ReetPlace](https://github.com/dnd-side-project/dnd-8th-2-frontend)**
+<!-- ### <img align="left" width="75" src="https://github.com/kth1210/kth1210/assets/51712973/386127bc-8585-417c-9a88-d10cb9f4afee"> **3. [ReetPlace](https://github.com/dnd-side-project/dnd-8th-2-frontend)**
 개발 기간 : ( 2023.02.01 ~ )  
 숨겨진 장소를 나만의 약속으로, ReetPlace  
 유저가 만족할 약속을 완성하도록 도와주는 서비스  
@@ -43,7 +48,7 @@
 
 ### **1. [비행 - 비와 함께하는 여행](https://github.com/kth1210/BeHang_iOS)**
 개발 기간 : ( 2022.08.01 ~ 2022.09.11 )  
-비 오는 날 여행할 곳을 추천해주는 서비스
+비 오는 날 여행할 곳을 추천해주는 서비스 -->
   
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:87C5FF,100:E1F1FF&height=150&section=footer)
 

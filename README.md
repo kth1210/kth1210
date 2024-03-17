@@ -23,12 +23,12 @@
 ## ✔ Activities
 |기간|내용|
 |:-:|:-:|
-|2023.07.10 ~ 2023.12.15|**네이버 커넥트재단 부스트캠프 웹·모바일 8기 - iOS**|
-|2023.05.30 ~ 2023.11.14|**2023 관광데이터 활용 공모전 입상 - iOS**|
-|2023.01.08 ~ 2023.03.04|**IT 연합 동아리 DND 8기 - iOS**|
-|2022.12.28 ~ 2023.02.23|**계절제 현장실습 (주)조은캠프 인터넷 강의 플랫폼 MVP 개발 - iOS**|
-|2022.05.30 ~ 2022.09.29|**2022 관광데이터 활용 공모전 입상 - iOS**|
-|2018.03 ~ 2024.02|**경북대학교 컴퓨터학부**|
+|2023.07.10. ~ 2023.12.15.|**네이버 커넥트재단 부스트캠프 웹·모바일 8기 - iOS**|
+|2023.05.30. ~ 2023.11.14.|**2023 관광데이터 활용 공모전 입상 - iOS**|
+|2023.01.08. ~ 2023.03.04.|**IT 연합 동아리 DND 8기 - iOS**|
+|2022.12.28. ~ 2023.02.23.|**계절제 현장실습 (주)조은캠프 인터넷 강의 플랫폼 MVP 개발 - iOS**|
+|2022.05.30. ~ 2022.09.29.|**2022 관광데이터 활용 공모전 입상 - iOS**|
+|2018.03. ~ 2024.02.|**경북대학교 컴퓨터학부**|
 
 <br>
 
@@ -37,8 +37,8 @@
 
 ||내용|링크|
 |:-:|:-:|:-:|
-|<img width="75" src="https://github.com/kth1210/kth1210/assets/51712973/52cea49f-572f-4723-a294-5315327f8b10">|__**🌏 traveline**__<br/>여행 일정을 타임라인으로 기록하고 공유하는 여행 SNS 서비스<br/>( 2023.11.06 ~ )|[<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">](https://github.com/boostcampwm2023/iOS07-traveline)|
-|<img width="75" src="https://github.com/kth1210/kth1210/assets/51712973/386127bc-8585-417c-9a88-d10cb9f4afee">|__**📍 ReetPlace**__<br/>숨겨진 장소를 나만의 약속으로, ReetPlace<br/>유저가 만족할 약속을 완성하도록 도와주는 서비스<br/>( 2023.02.01 ~ )|[<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">](https://github.com/dnd-side-project/dnd-8th-2-frontend)<br/> [<img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white">](https://apps.apple.com/us/app/reet-place/id6450978432)|
+|<img width="75" src="https://github.com/kth1210/kth1210/assets/51712973/52cea49f-572f-4723-a294-5315327f8b10">|__**🌏 traveline**__<br/>여행 일정을 타임라인으로 기록하고 공유하는 여행 SNS 서비스<br/>( 2023.11.06. ~ )|[<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">](https://github.com/boostcampwm2023/iOS07-traveline)|
+|<img width="75" src="https://github.com/kth1210/kth1210/assets/51712973/386127bc-8585-417c-9a88-d10cb9f4afee">|__**📍 ReetPlace**__<br/>숨겨진 장소를 나만의 약속으로, ReetPlace<br/>유저가 만족할 약속을 완성하도록 도와주는 서비스<br/>( 2023.02.01. ~ )|[<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">](https://github.com/dnd-side-project/dnd-8th-2-frontend)<br/> [<img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white">](https://apps.apple.com/us/app/reet-place/id6450978432)|
 
 <!-- ### <img align="left" width="75" src="https://github.com/kth1210/kth1210/assets/51712973/386127bc-8585-417c-9a88-d10cb9f4afee"> **3. [ReetPlace](https://github.com/dnd-side-project/dnd-8th-2-frontend)**
 개발 기간 : ( 2023.02.01 ~ )  

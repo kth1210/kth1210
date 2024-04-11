@@ -20,7 +20,7 @@
 <br>
 <br>
 
-## ✔ Activities
+## Activities
 |기간|내용|
 |:-:|:-:|
 |2023.07.10. ~ 2023.12.15.|**네이버 커넥트재단 부스트캠프 웹·모바일 8기 - iOS**|
@@ -32,7 +32,7 @@
 
 <br>
 
-## ✔ iOS Projects
+## iOS Projects
 <!-- <img src="https://img.shields.io/badge/App_Store-0D96F6?style=&logo=app-store&logoColor=white"> -->
 
 ||내용|링크|
